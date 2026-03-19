@@ -47,5 +47,5 @@ The engine automatically generates a visual telemetry report from raw SQLite cli
 * **Automated Logic:** The bottom panel shows the rule-based AI suggestion based on the current audience health.
 
 ## 🏆 Recognition
-* **Participation Certificate:** Awarded for successful completion and presentation of the SmartLink project at **Advitiya '26**, the annual tech-fest of **IIT Kharagpur**.
+* **Participation Certificate:** Awarded for successful completion and presentation of the SmartLink project at **Advitiya '26**.
 * [View Official Certificate](https://drive.google.com/file/d/1wqpo2Ea2bOSGBqOdbErOUdqrzHCDqFzA/view?usp=sharing)
