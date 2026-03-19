@@ -38,7 +38,7 @@ SmartLink is an intelligent telemetry and URL routing system designed to optimiz
 ## 📊 Analytics Dashboard Output
 The engine automatically generates a visual telemetry report from raw SQLite clickstream data:
 
-![SmartLink Analytics Dashboard](dashboard.png)
+![SmartLink Analytics Dashboard](Dashboard_Output.png)
 
 ### Key Insights from Sample Data:
 * **Unique Visitor Logic:** Correcting raw click counts to identify unique visitors (demonstrating data cleaning proficiency).
