@@ -25,10 +25,23 @@ SmartLink is an intelligent telemetry and URL routing system designed to optimiz
 * **Actionable Output:** The system automatically generates optimization suggestions, such as "High mobile traffic detected: Optimize for vertical video formats."
 
 ## 📂 Project Structure
-```markdown
+```text
 ├── data/
 │   └── telemetry.db          # SQLite database with raw click logs
 ├── analysis_dashboard.ipynb  # Main Jupyter Notebook for data processing
 ├── insights_engine.py        # Python script for automated recommendations
 ├── requirements.txt          # Project dependencies (Pandas, Matplotlib)
 └── README.md                 # Project documentation
+
+```
+
+## 📊 Analytics Dashboard Output
+The engine automatically generates a visual telemetry report from raw SQLite clickstream data:
+
+![SmartLink Analytics Dashboard](dashboard.png)
+
+### Key Insights from Sample Data:
+* **Unique Visitor Logic:** Correcting raw click counts to identify unique visitors (demonstrating data cleaning proficiency).
+* **Device Segmentation:** Visualizing the 66.7% Desktop vs. 33.3% Mobile split via Matplotlib.
+* **Temporal Patterns:** Mapping peak traffic at Hour 12 to assist in content scheduling.
+* **Automated Logic:** The bottom panel shows the rule-based AI suggestion based on the current audience health.
