@@ -1,6 +1,0 @@
-link-manager/
-├── main.py          # Backend logic & API
-├── database.db      # SQLite database 
-├── templates/
-│   └── index.html   # The Analytics Dashboard
-└── requirements.txt # Python dependencies
